@@ -6,4 +6,4 @@
 #### naturalnumber(n)
 #### This would produce the following output:
 
-![Output_Screenshot](Natural numbers_Output.png)
+![Output Screenshot](Natural numbers_Output.png)
