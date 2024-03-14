@@ -4,3 +4,5 @@
 2.Print all Odd numbers and Even numbers upto n
 
 3.Check Prime number or not
+
+4.Check Odd number or Even number
