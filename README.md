@@ -6,3 +6,5 @@
 3.Check Prime number or not
 
 4.Check Odd number or Even number
+
+5.Check Positive number or Negative number
