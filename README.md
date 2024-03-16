@@ -8,3 +8,5 @@
 4.Check Odd number or Even number
 
 5.Check Positive number or Negative number
+
+6.Check Leap year or not
