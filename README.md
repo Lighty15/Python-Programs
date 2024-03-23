@@ -12,3 +12,5 @@
 6.Check Leap year or not
 
 7.Calculate distance between two points
+
+8.Exchange the values of two variables
