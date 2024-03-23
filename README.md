@@ -14,3 +14,17 @@
 7.Calculate distance between two points
 
 8.Exchange the values of two variables
+
+9.Check whether the given string is palindrome or not
+
+10.Find the maximum of two numbers
+
+11.Check Armstrong number or not
+
+12.Print star series
+
+13.Find HCF and GCD of two numbers 
+
+
+
+
