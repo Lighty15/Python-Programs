@@ -25,6 +25,8 @@
 
 13.Find HCF and GCD of two numbers 
 
+14.Find the factors of a number
+
 
 
 
