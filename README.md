@@ -27,6 +27,8 @@
 
 14.Find the factors of a number
 
+15.Find the sum of multiples of 3 & 5
+
 
 
 
