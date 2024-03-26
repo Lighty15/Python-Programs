@@ -29,6 +29,8 @@
 
 15.Find the sum of multiples of 3 & 5
 
+16.Generate fibonacci series upto N
+
 
 
 
