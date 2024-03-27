@@ -31,6 +31,8 @@
 
 16.Generate fibonacci series upto N
 
+17.Replace the word with given symbol
+
 
 
 
