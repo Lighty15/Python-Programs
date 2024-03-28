@@ -33,6 +33,8 @@
 
 17.Replace the word with given symbol
 
+18.Count all digits, letters and special symbols in a string
+
 
 
 
