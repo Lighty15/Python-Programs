@@ -35,6 +35,8 @@
 
 18.Count all digits, letters and special symbols in a string
 
+19.Count number of vowels, consonants and white space in a string
+
 
 
 
