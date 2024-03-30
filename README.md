@@ -37,6 +37,8 @@
 
 19.Count number of vowels, consonants and white space in a string
 
+20.Convert Decimal number to binary, octal and hexadecimal number
+
 
 
 
