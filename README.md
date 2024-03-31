@@ -39,6 +39,8 @@
 
 20.Convert Decimal number to binary, octal and hexadecimal number
 
+21.Transpose of a Matrix
+
 
 
 
