@@ -41,6 +41,8 @@
 
 21.Transpose of a Matrix
 
+22.Addition of two matrix
+
 
 
 
