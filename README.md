@@ -43,6 +43,8 @@
 
 22.Addition of two matrix
 
+23.Subtraction of two matrix
+
 
 
 
