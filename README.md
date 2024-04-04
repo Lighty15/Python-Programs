@@ -45,6 +45,10 @@
 
 23.Subtraction of two matrix
 
+24.Convert Fahrenheit to celsius
+
+25.Convert Celsius to fahrenheit
+
 
 
 
