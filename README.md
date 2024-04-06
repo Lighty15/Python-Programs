@@ -51,6 +51,8 @@
 
 26.Multiplication of matrix
 
+27.Count vowels in a string
+
 
 
 
