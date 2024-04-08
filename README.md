@@ -55,6 +55,8 @@
 
 28.Sorting the words in alphabetic order
 
+29.Calculate Simple Interest
+
 
 
 
