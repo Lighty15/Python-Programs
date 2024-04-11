@@ -57,6 +57,8 @@
 
 29.Calculate Simple Interest
 
+30.Exponent of a number
+
 
 
 
