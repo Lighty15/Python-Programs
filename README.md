@@ -59,6 +59,8 @@
 
 30.Exponent of a number
 
+31.Length of the string
+
 
 
 
