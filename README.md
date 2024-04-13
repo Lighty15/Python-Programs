@@ -61,6 +61,8 @@
 
 31.Length of the string
 
+32.Remove spaces from a string
+
 
 
 
