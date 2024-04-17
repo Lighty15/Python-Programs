@@ -67,6 +67,8 @@
 
 34.Find the length of a longest word
 
+35.Linear Search
+
 35.Print the index of a character
 
 
