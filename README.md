@@ -71,6 +71,8 @@
 
 35.Print the index of a character
 
+36.Swap two elements in a list
+
 
 
 
