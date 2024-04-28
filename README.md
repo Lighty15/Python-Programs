@@ -73,6 +73,8 @@
 
 36.Swap two elements in a list
 
+37.Smallest number in a list
+
 
 
 
